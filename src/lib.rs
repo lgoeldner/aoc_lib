@@ -1,3 +1,5 @@
+//! Measter/aoc_lib is a library for solving Advent of Code problems.
+
 use std::{fmt::Display, iter, num::ParseIntError, time::Duration};
 
 use console::{style, Term};
